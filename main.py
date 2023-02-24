@@ -10,6 +10,14 @@ def sorehakisu(x):
        
 def sq(x):
     print(x**2)
+
+def _paypay(y):
+    if y=="PayPay使えない":
+        print("それはやばい")
+    
+    else:
+        print("PayPay使えます")
     
 sorehakisu(x)
 sq(x)
+_paypay("PayPay使えない")
