@@ -7,4 +7,9 @@ def sorehakisu(x):
         print("奇数")
     else:
         print("それはやばい")
+       
+def sq(x):
+    print(x**2)
+    
 sorehakisu(x)
+sq(x)
